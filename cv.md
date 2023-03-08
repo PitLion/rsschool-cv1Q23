@@ -25,6 +25,7 @@ For many years I have been working as an expert in the study of manuscripts and 
 - Git, GitHub
 - VS Code
 - Figma
+- TypeScript (in process)
 
 ## **Code Example:**
 This code does not execute properly. Try to figure out why.
