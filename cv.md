@@ -47,8 +47,8 @@ function score(a, b) {
 ## **Courses and books:**
 **Courses:**
 - RS Schools Course ***JS/FE Pre-School 2022Q2***
-- RS Schools Course ***JavaScript/Front-end 2022Q3*** (not finished)
-- RS Schools Course ***JS/FE Pre-School 2022Q4*** (in progress)
+- RS Schools Course ***JS/FE Pre-School 2022Q4***
+- RS Schools Course ***JavaScript/Front-end 2023Q1*** (in progress)
 
 **Books:**
 1. *Eric Freeman, Elisabeth Robson  Head First HTML and CSS*
