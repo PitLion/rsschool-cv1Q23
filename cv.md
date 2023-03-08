@@ -1,6 +1,6 @@
 # **PIOTR BAUSIUK**
 ![This me](/assets/DSC_0242.JPG)
-## **RS School student. JavaScript/Front-end. Stage0**
+## **RS School student. JavaScript/Front-end 2023Q1**
 ****
 
 ## **Contact information:**
